@@ -17,13 +17,13 @@ This is a collection of programs for the cryptology LAB course 2023/24. All prog
 
 <span style="color:blue;">find_key.py</span>  ...  finds the key of an encrypted german text using frequency analysis
 
-<span style="color:blue;">**ac_enc.py**</span>  ...  script for encryption:
+<span style="color:blue;">ac_enc.py</span>  ...  script for encryption:
 <span style="color:blue;">ac_enc.py [input_txt] [key] [output_txt]</span>
 
-<span style="color:blue;">**ac_dec.py**</span> ...  script for decription (with known key):
+<span style="color:blue;">ac_dec.py</span> ...  script for decription (with known key):
 <span style="color:blue;">ac_dec.py [input_txt] [key] [output_txt]</span>
 
-<span style="color:blue;">**ac_dec_find_key.py**</span> ... script for decription (with an unknown key):
+<span style="color:blue;">ac_dec_find_key.py</span> ... script for decription (with an unknown key):
 <span style="color:blue;">ac_dec_find_key.py [input_txt] [output_txt]</span>
 
 **Description:**
